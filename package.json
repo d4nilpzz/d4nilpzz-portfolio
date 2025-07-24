@@ -1,9 +1,9 @@
 {
-  "name": "pheralb.dev",
+  "name": "d4nilpzz.dev",
   "version": "3.0.0",
-  "author": "@pheralb_",
-  "description": "My personal website. Built with Svelte 5.",
-  "license": "Apache-Version2.0",
+  "author": "@d4nilpzz",
+  "description": "Portfolio website build with svelte",
+  "license": "Apache-Version 2.0",
   "private": true,
   "type": "module",
   "scripts": {
