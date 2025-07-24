@@ -3,6 +3,7 @@
 
   import Github from '@/icons/github.svelte';
   import Linkedin from '@/icons/linkedin.svelte';
+    import Discord from '@/icons/discord.svelte';
 
   const SocialLinks = [
     {
@@ -14,6 +15,11 @@
       name: 'GitHub',
       url: 'https://github.com/d4nilpzz',
       icon: Github
+    },
+    {
+      name: 'Discord',
+      url: 'https://discord.d4nilpzz.dev',
+      icon: Discord
     }
   ];
 </script>

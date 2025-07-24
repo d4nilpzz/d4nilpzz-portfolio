@@ -72,7 +72,7 @@
     class="pointer-events-none absolute -inset-px rounded-md opacity-0 transition duration-300"
     style="
       opacity: {opacity};
-      background: radial-gradient(600px circle at {position.x}px {position.y}px, rgba(97, 97, 97, 0.1), transparent 60%);
+      background: radial-gradient(300px circle at {position.x}px {position.y}px, rgba(75, 75, 75, 0.1), transparent 60%);
     "
   ></div>
   <div class="flex flex-col space-y-3">
